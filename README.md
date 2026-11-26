@@ -24,6 +24,8 @@ The project focuses on understanding the mathematical foundations of hierarchica
 
 ##  Dataset (modify later)
 
+- **Source:** [30000 Spotify Songs (Kaggle)](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) by `joebeachcapital` (Joakim Arvidsson).
+- **Description:** A tabular dataset of roughly 30,000 tracks collected via the Spotify API, containing track metadata and audio features.
 This project uses a sample dataset containing Spotify tracks and their corresponding audio features.
 
 Some relevant audio features may include:
