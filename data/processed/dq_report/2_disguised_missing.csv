@@ -1,0 +1,15 @@
+﻿column,rule,n_rows,pct,examples
+track_name,chuỗi placeholder (NA/null/unknown/-/0/rỗng...),6,0.018,"'NA':5, '?':1"
+track_artist,chuỗi placeholder (NA/null/unknown/-/0/rỗng...),5,0.015,'NA':5
+track_album_name,chuỗi placeholder (NA/null/unknown/-/0/rỗng...),9,0.027,"'NA':5, '?':4"
+loudness,"ngoài khoảng [-60, 0]",6,0.018,"{0.551: 1, 0.326: 1, 0.642: 1, 1.275: 1, 1.135: 1}"
+tempo,tempo <= 0,1,0.003,
+duration_ms,"duration ngoài [30 giây, 20 phút] (đáng ngờ)",2,0.006,
+track_popularity,popularity = 0 (có thể là thiếu hoặc bài chưa có lượt nghe),2703,8.233,
+(nhiều cột audio),≥ nửa số đặc trưng audio bằng 0 trong cùng 1 dòng,1,0.003,
+track_popularity,một giá trị chiếm ≥ 5% số dòng (spike),2703,8.233,value=0
+instrumentalness,một giá trị chiếm ≥ 5% số dòng (spike),12089,36.82,value=0.0
+track_album_release_date,chỉ có năm (độ chính xác thấp),1855,5.65,
+track_album_release_date,chỉ có năm-tháng,31,0.094,
+track_album_release_date,ngày mặc định 1970-01-01 (epoch),5,0.015,
+track_album_release_date,ngày 01-01 chiếm tỉ lệ cao (nghi mặc định khi chỉ biết năm),3107,9.463,10.0% số ngày đầy đủ

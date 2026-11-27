@@ -1,0 +1,95 @@
+﻿column,vs,test,p_value,effect,detail
+track_name,playlist_genre,chi2 (Cramér's V),0.019225588729823412,0.02,nhóm cao nhất: rap (0.1% thiếu)
+track_name,playlist_subgenre,chi2 (Cramér's V),0.014885237679208704,0.035,nhóm cao nhất: gangster rap (0.2% thiếu)
+track_name,playlist_name,chi2 (Cramér's V),0.030555573980011283,0.121,nhóm cao nhất: GANGSTA Rap (2.2% thiếu)
+track_name,release_decade,chi2 (Cramér's V),0.8700477848608844,0.009,nhóm cao nhất: 2010 (0.0% thiếu)
+track_name,row_position_decile,chi2 (Cramér's V),0.004290054998091697,0.027,nhóm cao nhất: 2 (0.1% thiếu)
+track_name,track_popularity,Mann-Whitney (rank-biserial r),0.0009190840485605202,0.781,median khi thiếu=0 vs không thiếu=45
+track_name,danceability,Mann-Whitney (rank-biserial r),0.5522954833111333,0.14,median khi thiếu=0.677 vs không thiếu=0.672
+track_name,energy,Mann-Whitney (rank-biserial r),0.31050335975378696,0.239,median khi thiếu=0.821 vs không thiếu=0.721
+track_name,key,Mann-Whitney (rank-biserial r),0.01467784250012841,0.573,median khi thiếu=10 vs không thiếu=6
+track_name,loudness,Mann-Whitney (rank-biserial r),0.5323009835741404,0.147,median khi thiếu=-6.86 vs không thiếu=-6.17
+track_name,mode,Mann-Whitney (rank-biserial r),0.2507878320258199,0.232,median khi thiếu=0 vs không thiếu=1
+track_name,speechiness,Mann-Whitney (rank-biserial r),0.02005941580510543,0.548,median khi thiếu=0.241 vs không thiếu=0.0625
+track_name,acousticness,Mann-Whitney (rank-biserial r),0.9263643153669824,0.022,median khi thiếu=0.057 vs không thiếu=0.0804
+track_name,instrumentalness,Mann-Whitney (rank-biserial r),0.055884526048217226,0.439,median khi thiếu=0 vs không thiếu=1.61e-05
+track_name,liveness,Mann-Whitney (rank-biserial r),0.6416460746666732,0.11,median khi thiếu=0.116 vs không thiếu=0.127
+track_name,valence,Mann-Whitney (rank-biserial r),0.6579555009604567,0.104,median khi thiếu=0.597 vs không thiếu=0.512
+track_name,tempo,Mann-Whitney (rank-biserial r),0.07212223746697823,0.424,median khi thiếu=96 vs không thiếu=122
+track_name,duration_ms,Mann-Whitney (rank-biserial r),0.4710228555379906,0.17,median khi thiếu=2.3e+05 vs không thiếu=2.16e+05
+track_name,vị trí dòng (runs),longest run,,2.0,"5 đoạn liên tiếp, dài nhất 2 dòng"
+track_artist,playlist_genre,chi2 (Cramér's V),0.0651019394029683,0.018,nhóm cao nhất: rap (0.1% thiếu)
+track_artist,playlist_subgenre,chi2 (Cramér's V),0.2224797785093171,0.029,nhóm cao nhất: gangster rap (0.1% thiếu)
+track_artist,playlist_name,chi2 (Cramér's V),0.0032598264278469935,0.124,nhóm cao nhất: GANGSTA Rap (2.2% thiếu)
+track_artist,release_decade,chi2 (Cramér's V),0.9130085848965526,0.008,nhóm cao nhất: 2010 (0.0% thiếu)
+track_artist,row_position_decile,chi2 (Cramér's V),0.048643990652502585,0.023,nhóm cao nhất: 2 (0.1% thiếu)
+track_artist,track_popularity,Mann-Whitney (rank-biserial r),0.00037715784574456627,0.918,median khi thiếu=0 vs không thiếu=45
+track_artist,danceability,Mann-Whitney (rank-biserial r),0.857452949502134,0.046,median khi thiếu=0.678 vs không thiếu=0.672
+track_artist,energy,Mann-Whitney (rank-biserial r),0.16538709714811894,0.358,median khi thiếu=0.821 vs không thiếu=0.721
+track_artist,key,Mann-Whitney (rank-biserial r),0.03652688829170195,0.538,median khi thiếu=10 vs không thiếu=6
+track_artist,loudness,Mann-Whitney (rank-biserial r),0.742201089075591,0.085,median khi thiếu=-6.08 vs không thiếu=-6.17
+track_artist,mode,Mann-Whitney (rank-biserial r),0.45471007627278004,0.166,median khi thiếu=0 vs không thiếu=1
+track_artist,speechiness,Mann-Whitney (rank-biserial r),0.06840751321905446,0.471,median khi thiếu=0.176 vs không thiếu=0.0625
+track_artist,acousticness,Mann-Whitney (rank-biserial r),0.6200404655047091,0.128,median khi thiếu=0.0534 vs không thiếu=0.0804
+track_artist,instrumentalness,Mann-Whitney (rank-biserial r),0.11132332987302357,0.401,median khi thiếu=0 vs không thiếu=1.61e-05
+track_artist,liveness,Mann-Whitney (rank-biserial r),0.8593792238501218,0.046,median khi thiếu=0.116 vs không thiếu=0.127
+track_artist,valence,Mann-Whitney (rank-biserial r),0.682770015454141,0.106,median khi thiếu=0.649 vs không thiếu=0.512
+track_artist,tempo,Mann-Whitney (rank-biserial r),0.14356246534821426,0.378,median khi thiếu=96 vs không thiếu=122
+track_artist,duration_ms,Mann-Whitney (rank-biserial r),0.24478484222954822,0.3,median khi thiếu=2.53e+05 vs không thiếu=2.16e+05
+track_artist,vị trí dòng (runs),longest run,,2.0,"4 đoạn liên tiếp, dài nhất 2 dòng"
+track_album_name,playlist_genre,chi2 (Cramér's V),0.06931057858011291,0.018,nhóm cao nhất: rap (0.1% thiếu)
+track_album_name,playlist_subgenre,chi2 (Cramér's V),0.14112372713628965,0.03,nhóm cao nhất: hip pop (0.2% thiếu)
+track_album_name,playlist_name,chi2 (Cramér's V),0.0013415120017320203,0.125,nhóm cao nhất: Hip pop (2.2% thiếu)
+track_album_name,release_decade,chi2 (Cramér's V),0.7132784506725522,0.011,nhóm cao nhất: 2010 (0.0% thiếu)
+track_album_name,row_position_decile,chi2 (Cramér's V),0.20682862503588584,0.019,nhóm cao nhất: 2 (0.1% thiếu)
+track_album_name,track_popularity,Mann-Whitney (rank-biserial r),0.6807231478049747,0.079,median khi thiếu=0 vs không thiếu=45
+track_album_name,danceability,Mann-Whitney (rank-biserial r),0.2684728389615125,0.213,median khi thiếu=0.714 vs không thiếu=0.672
+track_album_name,energy,Mann-Whitney (rank-biserial r),0.977214977715789,0.006,median khi thiếu=0.659 vs không thiếu=0.721
+track_album_name,key,Mann-Whitney (rank-biserial r),0.008521783917656832,0.504,median khi thiếu=8 vs không thiếu=6
+track_album_name,loudness,Mann-Whitney (rank-biserial r),0.5706122334844312,0.109,median khi thiếu=-5.72 vs không thiếu=-6.17
+track_album_name,mode,Mann-Whitney (rank-biserial r),0.9509970272879193,0.01,median khi thiếu=1 vs không thiếu=1
+track_album_name,speechiness,Mann-Whitney (rank-biserial r),0.015391635637593243,0.466,median khi thiếu=0.145 vs không thiếu=0.0625
+track_album_name,acousticness,Mann-Whitney (rank-biserial r),0.32455975379509083,0.19,median khi thiếu=0.0963 vs không thiếu=0.0804
+track_album_name,instrumentalness,Mann-Whitney (rank-biserial r),0.9606861446210764,0.009,median khi thiếu=0.00372 vs không thiếu=1.61e-05
+track_album_name,liveness,Mann-Whitney (rank-biserial r),0.6827099533701545,0.079,median khi thiếu=0.116 vs không thiếu=0.127
+track_album_name,valence,Mann-Whitney (rank-biserial r),0.671107413660672,0.082,median khi thiếu=0.505 vs không thiếu=0.512
+track_album_name,tempo,Mann-Whitney (rank-biserial r),0.009775197027067237,0.497,median khi thiếu=96 vs không thiếu=122
+track_album_name,duration_ms,Mann-Whitney (rank-biserial r),0.3127996403265447,0.194,median khi thiếu=2.02e+05 vs không thiếu=2.16e+05
+track_album_name,vị trí dòng (runs),longest run,,2.0,"8 đoạn liên tiếp, dài nhất 2 dòng"
+track_album_release_date,playlist_genre,chi2 (Cramér's V),0.0037480174030524423,0.023,nhóm cao nhất: rock (0.1% thiếu)
+track_album_release_date,playlist_subgenre,chi2 (Cramér's V),0.06764239992492559,0.032,nhóm cao nhất: album rock (0.2% thiếu)
+track_album_release_date,playlist_name,chi2 (Cramér's V),6.747041196725053e-05,0.129,nhóm cao nhất: The Sound of Album Rock (2.2% thiếu)
+track_album_release_date,release_decade,chi2 (Cramér's V),5.286209063050986e-33,0.071,nhóm cao nhất: 1970 (0.5% thiếu)
+track_album_release_date,row_position_decile,chi2 (Cramér's V),0.1625524931339285,0.02,nhóm cao nhất: 3 (0.1% thiếu)
+track_album_release_date,track_popularity,Mann-Whitney (rank-biserial r),0.6793428042878127,0.107,median khi thiếu=57 vs không thiếu=45
+track_album_release_date,danceability,Mann-Whitney (rank-biserial r),0.4975131713131977,0.175,median khi thiếu=0.649 vs không thiếu=0.672
+track_album_release_date,energy,Mann-Whitney (rank-biserial r),0.9773755243940561,0.007,median khi thiếu=0.679 vs không thiếu=0.721
+track_album_release_date,key,Mann-Whitney (rank-biserial r),0.28178456106643945,0.277,median khi thiếu=2 vs không thiếu=6
+track_album_release_date,loudness,Mann-Whitney (rank-biserial r),0.0028665881233142713,0.77,median khi thiếu=-12.5 vs không thiếu=-6.17
+track_album_release_date,mode,Mann-Whitney (rank-biserial r),0.05007964749384314,0.434,median khi thiếu=1 vs không thiếu=1
+track_album_release_date,speechiness,Mann-Whitney (rank-biserial r),0.1550323926660541,0.367,median khi thiếu=0.0326 vs không thiếu=0.0625
+track_album_release_date,acousticness,Mann-Whitney (rank-biserial r),0.1723421438727244,0.352,median khi thiếu=0.178 vs không thiếu=0.0803
+track_album_release_date,instrumentalness,Mann-Whitney (rank-biserial r),0.06059109060743823,0.472,median khi thiếu=0.00121 vs không thiếu=1.61e-05
+track_album_release_date,liveness,Mann-Whitney (rank-biserial r),0.9755689949489768,0.008,median khi thiếu=0.192 vs không thiếu=0.127
+track_album_release_date,valence,Mann-Whitney (rank-biserial r),0.0009994697166106016,0.85,median khi thiếu=0.89 vs không thiếu=0.512
+track_album_release_date,tempo,Mann-Whitney (rank-biserial r),0.8795491639984322,0.039,median khi thiếu=127 vs không thiếu=122
+track_album_release_date,duration_ms,Mann-Whitney (rank-biserial r),0.7896998452293991,0.069,median khi thiếu=2.21e+05 vs không thiếu=2.16e+05
+track_album_release_date,vị trí dòng (runs),longest run,,1.0,"5 đoạn liên tiếp, dài nhất 1 dòng"
+loudness,playlist_genre,chi2 (Cramér's V),0.19927841037637267,0.015,nhóm cao nhất: rap (0.1% thiếu)
+loudness,playlist_subgenre,chi2 (Cramér's V),0.2525810424432198,0.029,nhóm cao nhất: trap (0.2% thiếu)
+loudness,playlist_name,chi2 (Cramér's V),5.8737945763614415e-33,0.163,nhóm cao nhất: Nikki Sixx's Top Pixx (4.8% thiếu)
+loudness,release_decade,chi2 (Cramér's V),0.4744860797020003,0.013,nhóm cao nhất: 1970 (0.1% thiếu)
+loudness,row_position_decile,chi2 (Cramér's V),0.004290855631131943,0.027,nhóm cao nhất: 3 (0.1% thiếu)
+loudness,track_popularity,Mann-Whitney (rank-biserial r),0.45766368515328937,0.175,median khi thiếu=39.5 vs không thiếu=45
+loudness,danceability,Mann-Whitney (rank-biserial r),0.06708740899748905,0.432,median khi thiếu=0.813 vs không thiếu=0.672
+loudness,energy,Mann-Whitney (rank-biserial r),0.0007026258011694711,0.799,median khi thiếu=0.927 vs không thiếu=0.721
+loudness,key,Mann-Whitney (rank-biserial r),0.9404313862864888,0.018,median khi thiếu=5 vs không thiếu=6
+loudness,mode,Mann-Whitney (rank-biserial r),0.1859612653722713,0.268,median khi thiếu=1 vs không thiếu=1
+loudness,speechiness,Mann-Whitney (rank-biserial r),0.08082421822005129,0.412,median khi thiếu=0.0968 vs không thiếu=0.0625
+loudness,acousticness,Mann-Whitney (rank-biserial r),0.6908504099155696,0.094,median khi thiếu=0.115 vs không thiếu=0.0803
+loudness,instrumentalness,Mann-Whitney (rank-biserial r),0.9230037424419626,0.022,median khi thiếu=1.26e-05 vs không thiếu=1.61e-05
+loudness,liveness,Mann-Whitney (rank-biserial r),0.662915712467494,0.103,median khi thiếu=0.141 vs không thiếu=0.127
+loudness,valence,Mann-Whitney (rank-biserial r),0.1322913989593393,0.355,median khi thiếu=0.343 vs không thiếu=0.512
+loudness,tempo,Mann-Whitney (rank-biserial r),0.12110260713509047,0.365,median khi thiếu=131 vs không thiếu=122
+loudness,duration_ms,Mann-Whitney (rank-biserial r),0.11532709088821597,0.371,median khi thiếu=1.75e+05 vs không thiếu=2.16e+05
+loudness,vị trí dòng (runs),longest run,,1.0,"6 đoạn liên tiếp, dài nhất 1 dòng"
