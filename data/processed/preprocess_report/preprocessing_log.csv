@@ -1,6 +1,8 @@
 ﻿step,rows_removed,track_ids_removed,rows_after,track_ids_after
 0. Dữ liệu gốc,0,0,32833,28356
-1. Xóa track thiếu/ngụy trang,21,17,32812,28339
-2. Xóa track có key = -1,0,0,32812,28339
-"3a. Xóa trùng (track_id, playlist_id)",582,0,32230,28339
-3b. Xóa trùng track_id,3891,0,28339,28339
+1. Xóa track thiếu/ngụy trang,5009,4508,27824,23848
+2. Xóa track có key = -1,0,0,27824,23848
+"3a. Xóa trùng (track_id, playlist_id)",557,0,27267,23848
+3b. Xóa trùng track_id,3419,0,23848,23848
+4a. Trùng name+artist+album & audio giống hệt,215,215,23633,23633
+4b. Trùng name+artist & audio giống hệt,263,263,23370,23370
