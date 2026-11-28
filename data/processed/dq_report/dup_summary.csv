@@ -1,0 +1,6 @@
+﻿loại,khóa,số dòng thuộc nhóm trùng,số dòng thừa (giữ 1)
+Trùng hoàn toàn (mọi cột),(all),0,0
+Trùng khóa nghiệp vụ,track_id,7643,4477
+Trùng khóa nghiệp vụ,track_id + playlist_id,1114,582
+Trùng khóa nghiệp vụ,track_name + track_artist,10666,6603
+Trùng khóa nghiệp vụ,track_name + track_artist + track_album_name,8829,5259
